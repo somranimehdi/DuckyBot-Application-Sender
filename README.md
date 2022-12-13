@@ -10,3 +10,8 @@ My story with end of study internship continue and I had to apply to various com
 I called him **The DuckyBot**.
 
 You liked the idea? Give it a shot.
+
+# How to run it
+
+Download the files and change the email and application password.
+Also, don't forget to change the email body in addition to adding companies to the csv file
